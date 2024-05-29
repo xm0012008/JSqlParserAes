@@ -1,4 +1,4 @@
-# 数据库敏感字段sql加解密插件
+# 数据库敏感字段sql加解密小插件
 ###
 目前支持Mybatis,beetSql,理论上来说,只要提供了拦截器机制的ORM均可以支持
 
@@ -15,5 +15,6 @@ SecurityPluginTest
 ```
 
 ### 整体架构
-![image](https://github.com/xm0012008/JSqlParserAes/assets/5228240/18105c22-4913-433b-aee5-946bf21a03cd)
+![image](https://github.com/xm0012008/JSqlParserAes/assets/5228240/0b0015e6-f7c2-486e-a222-1e70cd65eee9)
+
 
