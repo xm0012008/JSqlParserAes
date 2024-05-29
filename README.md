@@ -1,4 +1,6 @@
 # 数据库敏感字段sql加解密插件
+###
+目前支持Mybatis,beetSql,理论上来说,只要提供了拦截器机制的ORM均可以支持
 
 ### 设计思路概述
 #### 使用mysql函数hex(),unhex(),aes_decrypt(),aes_encrypt()对数据进行加解密:支持模糊查询+分页,对现有业务零侵入;
