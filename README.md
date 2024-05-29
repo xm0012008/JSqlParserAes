@@ -15,6 +15,8 @@ SecurityPluginTest
 ```
 
 ### 整体架构
-![image](https://github.com/xm0012008/JSqlParserAes/assets/5228240/0b0015e6-f7c2-486e-a222-1e70cd65eee9)
+
+![Uploading image.png…]()
+
 
 
