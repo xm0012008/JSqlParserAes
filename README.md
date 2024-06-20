@@ -20,6 +20,6 @@ SecurityPluginTest
 
 
 ### 对接方式
-![image](https://github.com/xm0012008/JSqlParserAes/blob/main/Jsqlparser_aes/security-plugin/img.png)
+![image](https://github.com/xm0012008/JSqlParserAes/blob/master/Jsqlparser_aes/security-plugin/img.png?raw=true)
 
 
