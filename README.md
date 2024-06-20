@@ -16,7 +16,8 @@ SecurityPluginTest
 
 ### 整体架构
 
-![image](https://github.com/xm0012008/JSqlParserAes/blob/main/Jsqlparser_aes/security-plugin/img_1.png)
+![image](https://github.com/xm0012008/JSqlParserAes/blob/master/Jsqlparser_aes/security-plugin/img_1.png)
+
 
 ### 对接方式
 ![image](https://github.com/xm0012008/JSqlParserAes/blob/main/Jsqlparser_aes/security-plugin/img.png)
